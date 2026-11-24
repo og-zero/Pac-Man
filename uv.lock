@@ -11,7 +11,7 @@ wheels = [
 ]
 
 [[package]]
-name = "new-pac-man"
+name = "pac-man"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
