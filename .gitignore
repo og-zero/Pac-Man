@@ -76,3 +76,6 @@ Desktop.ini
 *.log
 *.tmp
 *.bak
+
+docs/
+uv.lock
